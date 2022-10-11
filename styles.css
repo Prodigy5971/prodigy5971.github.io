@@ -1,3 +1,35 @@
 body {
     background-color: burlywood;
     }
+
+.menu {
+    border: solid red 4px;
+    margin: 5em 30% 5em 30%;
+    padding: 20px 40px 20px 40px;
+}
+
+ul.menu {
+    text-align: center;
+}
+
+il.menu {
+    padding: 3em 30px 3em 30px;
+}
+
+h2 {
+    text-align: left;
+}
+
+img.responsive {
+    margin: auto;
+    padding: 0px 1em 0px 1em;
+    float: right;
+    height: auto;
+    width: auto;
+    max-width: 200px;
+    min-width: 100px;
+}
+
+.footer {
+    margin: 2em 0px 20px 0px;
+}
